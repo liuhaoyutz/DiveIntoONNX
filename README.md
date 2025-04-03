@@ -1,6 +1,10 @@
 # DiveIntoONNX
 
 # Reference
+https://onnx.ai/onnx/intro/python.html  
+https://onnx.ai/onnx/api/helper.html#onnx.helper.make_graph  
 https://github.com/owenliang/mnist-onnx-runtime  
-【Mistral模型原理】复现Mixture of Experts（MoE）架构  
-【AI必备技能】ONNX Runtime推理框架  
+https://blog.csdn.net/fengdu78/article/details/142531250  
+https://zhuanlan.zhihu.com/p/10729441465  
+
+
